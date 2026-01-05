@@ -13,7 +13,10 @@ Este desafio simula um cenário real de integração entre sistemas, com foco em
 - Consistência e integridade dos dados  
 - Arquitetura de software  
 - JDBC puro  
-- Execução multiplataforma  
+- Execução multiplataforma
+
+<img width="613" height="440" alt="Captura de Tela 2026-01-05 às 11 03 10" src="https://github.com/user-attachments/assets/c2f9a284-642b-40fe-972f-3e31f1eaa2b5" />
+
 
 ---
 
