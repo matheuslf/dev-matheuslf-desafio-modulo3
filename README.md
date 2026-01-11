@@ -1,4 +1,4 @@
-# Desafio Técnico — Java Pleno
+# Desafio Técnico — Java Junior + Pleno + Sênior
 ## Replicador de Banco de Dados (Posto de Combustível)
 
 ---
